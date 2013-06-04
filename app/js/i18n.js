@@ -24,7 +24,8 @@ angular.module('app.i18n', [])
       HELP_TRANSLATE: 'کمک برای ترجمه'
     },
     ar: {
-      HELP_TRANSLATE: 'مساعدة لترجمة'
+      HELP_TRANSLATE: 'مساعدة لترجمة',
+      TEST: ''
     },
     en: {
       HELP_TRANSLATE: 'Help translate',
